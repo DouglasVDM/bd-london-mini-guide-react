@@ -1,9 +1,11 @@
 import React from "react";
+import Cities from "./Cities";
 
 function App() {
   return (
     <div>
-      <h1>BD London Mini Guide</h1>
+      <h2>BD London Mini Guide</h2>
+      <Cities />
     </div>
   );
 }
